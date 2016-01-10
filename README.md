@@ -1,9 +1,8 @@
-**AdminLTE** -- 是一个基于**Bootstrap 3** 技术框架的反应非常灵敏的管理模板。高度个人定制化和十分容易使用。能够适应多种分辨率的移动设备及显示大屏。现在自行测试它的使用效果：
+**AdminLTE** -- 是一个基于**Bootstrap 3** 技术框架的反应非常灵敏的管理模板。高度个人定制化和十分容易使用。能够适应多种分辨率的移动设备及显示大屏。现在自行测试其预览的使用效果：
 
 **在线测试效果: http://www.bootstrapstage.com/demo/admin-lte/index.html**
 
-注意：如果javascript在预览时不能正常运行（特别是IE用户）
-Note: If the javascript in the preview does not work properly (specially IE users), please visit http://www.bootstrapstage.com/demo/admin-lte/index.html
+注意：如果javascript在预览时不能正常运行（特别是IE用户），请访问：http://www.bootstrapstage.com/demo/admin-lte/index.html
 
 
 !["AdminLTE Presentation"](http://almsaeedstudio.com/adminlte2.png "AdminLTE Presentation")
