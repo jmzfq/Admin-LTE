@@ -1,4 +1,4 @@
-**AdminLTE** -- 是一个基于**Bootstrap 3** 技术框架的反应非常灵敏的管理模板。
+**AdminLTE** -- 是一个基于**Bootstrap 3** 技术框架的反应非常灵敏的管理模板。高度个人定制化和十分容易使用。能够适应多种分辨率的移动设备及显示大屏。现在自行测试它的使用效果：
 
 is a fully responsive admin template. Based on **Bootstrap 3** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself. 
 
